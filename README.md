@@ -1,2 +1,6 @@
 # PaperCraft
-Projects created in paper Js that I feel like posting
+> <a href="http://paperjs.org/"><b>Paper JS</b></a>
+> ### Current Projects added
+- <a href = "https://github.com/ClassicMC-Studios/A-whole-bunch-of-things/blob/main/paperCollection/drawing.html">Drawing Thing </a>
+- <a href = "https://github.com/ClassicMC-Studios/A-whole-bunch-of-things/blob/main/paperCollection/drawingWithCircles.html">Drawing With Circles</a>
+> More to come
